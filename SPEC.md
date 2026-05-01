@@ -4,7 +4,7 @@
 
 ## Overview
 
-Bell is the **event bus** that enables inter-agent communication in the GenX system. All agents communicate via publish/subscribe through Bell.
+Bell is the **event bus** that enables inter-agent communication in the GenAI system. All agents communicate via publish/subscribe through Bell.
 
 ## Core Concepts
 
